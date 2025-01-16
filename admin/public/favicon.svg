@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 130">
+    <!-- First L with medical cross -->
+    <g transform="translate(0, 0) scale(2)">
+        <!-- Vertical part of L -->
+        <path d="M0 0 
+                 C 0 0, 25 0, 25 0
+                 L 25 45
+                 C 25 45, 0 45, 0 45
+                 Z" 
+              fill="#0057B8"/>
+        
+        <!-- Horizontal part of L -->
+        <path d="M0 35
+                 L 0 50
+                 C 0 50, 40 50, 40 50
+                 L 40 35
+                 Z"
+              fill="#0057B8"/>
+              
+        <!-- Medical cross overlay -->
+        <path d="M8 10 L17 10 L17 5 L22 5 L22 10 L31 10
+                 L31 15 L22 15 L22 20 L17 20 L17 15 L8 15 Z"
+              fill="#00B4D8"/>
+    </g>
+
+    <!-- Second L -->
+    <g transform="translate(90, 0) scale(2)">
+        <!-- Vertical part of L -->
+        <path d="M0 0 
+                 C 0 0, 25 0, 25 0
+                 L 25 45
+                 C 25 45, 0 45, 0 45
+                 Z" 
+              fill="#0057B8"/>
+        
+        <!-- Horizontal part of L -->
+        <path d="M0 35
+                 L 0 50
+                 C 0 50, 40 50, 40 50
+                 L 40 35
+                 Z"
+              fill="#0057B8"/>
+              
+        <!-- Heart symbol overlay -->
+        <path d="M12.5 10
+                 C 15 5, 20 5, 22.5 10
+                 C 25 15, 17.5 20, 12.5 25
+                 C 7.5 20, 0 15, 2.5 10
+                 C 5 5, 10 5, 12.5 10
+                 Z"
+              fill="#00B4D8"/>
+    </g>
+</svg>
